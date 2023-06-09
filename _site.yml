@@ -1,0 +1,15 @@
+name: "amaara"
+title: "loveatfirstbite"
+description: |
+ the best and most easiest recipes to try
+
+output_dir: "docs"
+theme: "my_theme.css"
+navbar:
+  right:
+    - text: "home"
+      href: index.html
+    - text: "quickrecipes!!"
+      href: quickrecipes!!.html
+output: distill::distill_article
+  

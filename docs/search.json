@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-06-09T10:59:00+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "love at first b1te",
+      "author": [],
+      "contents": "\n\n          \n          \n          loveatfirstbite\n          \n          \n          home\n          quickrecipes!!\n          ☰\n          \n          \n      \n        \n          love at first b1te\n          \n            \n                \n                  \n                     Twitter\n                  \n                \n              \n                            \n                \n                  \n                     GitHub\n                  \n                \n              \n                            \n                \n                  \n                     Contact Us\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          about\n          Is it me, or does your stomach cry for some crazy tongue\n          spinnning recipes? My website will provide a range of recipes\n          for your favourite foods but with an extra hint of spice!\n          😘🍔\n          check out the quickrecipes!! page for more<33\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              love at first b1te\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              about\n              Is it me, or does your stomach cry for some crazy\n              tongue spinnning recipes? My website will provide a range\n              of recipes for your favourite foods but with an extra hint\n              of spice! 😘🍔\n              check out the quickrecipes!! page for more<33\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-06-09T10:59:01+00:00"
+    },
+    {
+      "path": "quickrecipes!!.html",
+      "title": "quick recipes!!",
+      "description": "A new article created using the Distill format.\n",
+      "author": [],
+      "contents": "\nWrite more info here\n\n\n\n",
+      "last_modified": "2023-06-09T10:59:02+00:00"
+    }
+  ],
+  "collections": []
+}
