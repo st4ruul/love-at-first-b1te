@@ -12,4 +12,6 @@ navbar:
     - text: "quickrecipes!!"
       href: quickrecipes!!.html
 output: distill::distill_article
+  create_theme("my-theme")
+  @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Geologica:wght@200&family=Gloria+Hallelujah&family=Kalam&family=Open+Sans:wght@500&family=Outfit:wght@100&family=Prompt:wght@300&display=swap');
   

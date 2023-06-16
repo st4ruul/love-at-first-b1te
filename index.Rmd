@@ -1,5 +1,5 @@
 ---
-title: "love at first b1te"
+title: "love at first bite"
 image: "imagess<3/yum.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
@@ -17,7 +17,7 @@ site: distill::distill_website
 
 Is it me, or does your stomach cry for some crazy tongue spinnning recipes? My website will provide a range of recipes for your favourite foods but with an extra hint of spice! 😘🍔
 
-check out the quickrecipes!! page for more<33
+check out the quickrecipes!! page for more<33(≧ヮ≦) 💕
 
 
 
